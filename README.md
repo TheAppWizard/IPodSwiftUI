@@ -1,7 +1,7 @@
 # IPodSwiftUI
 IPod UI made with SwiftUI.
 
-# Functions
+# Details
 1. On Tap Used for Selection.
 2. Animated Mask is used for Menu.
 3. Geometry Reader is used for Artist and Albums.
